@@ -22,4 +22,7 @@
  - Você terá que cadastra-se no https://expo.dev/ , pois no momento de buildar a aplicação vão te pedir o usuário e senha.
  - Terá que fazer algumas configurações no arquivo app.json, assim como está nesse tutorial -> https://docs.expo.dev/distribution/building-standalone-apps/
  - Com o terminal aberto para gerar a apk, execute o comando: expo build:android -t apk 
- - Com a apk em mãos, você pode colocar na loja da google ou ios, ou compartilhar para quem você quiser
+ - Com a apk em mãos, você pode colocar na loja da google ou ios, ou compartilhar para quem você quiser 
+
+ 
+ 
