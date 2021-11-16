@@ -19,9 +19,11 @@
   - Irá abrir uma outra página, escolha a opção Local e depois Android ou IOS
 
  # Como gerar o apk :runner:
- - Você terá que cadastra-se no https://expo.dev/ , pois no momento de buildar a aplicação vão te pedir o usuário e senha.
- - Terá que fazer algumas configurações no arquivo app.json, assim como está nesse tutorial -> https://docs.expo.dev/distribution/building-standalone-apps/
- - Com o terminal aberto para gerar a apk, execute o comando: expo build:android -t apk 
+ - Antes, faça algumas configurações no seu aplicativo, como segue nesse tutorial ->  https://thin-shawl-653.notion.site/Como-ter-um-aplicativo-de-sua-p-gina-pessoal-d2a24cc96c6842e0a1bd73a48c2d94bb
+ 
+ - Para buildar para Android e gerar a apk, basta executar o comando na pasta do projeto: expo build:android
+ - Para buildar para IOS e gerar a api, basta executar o comando na pasta do projeto: expo build:ios 
+
  - Com a apk em mãos, você pode colocar na loja da google ou ios, ou compartilhar para quem você quiser 
 
  
