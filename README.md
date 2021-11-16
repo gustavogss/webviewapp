@@ -24,7 +24,7 @@
  - Para buildar para Android e gerar a apk, basta executar o comando na pasta do projeto: expo build:android
  - Para buildar para IOS e gerar a api, basta executar o comando na pasta do projeto: expo build:ios 
 
- - Com a apk em mãos, você pode colocar na loja da google ou ios, ou compartilhar para quem você quiser 
+ - Com a apk ou api baixada, você pode colocar na loja da google ou ios, ou compartilhar para quem você quiser 
 
  
  
