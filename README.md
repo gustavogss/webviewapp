@@ -19,7 +19,7 @@
   - Irá abrir uma outra página, escolha a opção Local e depois Android ou IOS
 
  # Como gerar o apk 📱
- - Antes, faça algumas configurações no seu aplicativo, como segue nesse tutorial ->  https://thin-shawl-653.notion.site/Como-ter-um-aplicativo-de-sua-p-gina-pessoal-d2a24cc96c6842e0a1bd73a48c2d94bb
+ - Antes, faça algumas configurações no seu aplicativo, como segue nesse [tutorial](https://thin-shawl-653.notion.site/Como-ter-um-aplicativo-de-sua-p-gina-pessoal-d2a24cc96c6842e0a1bd73a48c2d94bb)
  
  - Para buildar para Android e gerar a apk, basta executar o comando na pasta do projeto: expo build:android
  - Para buildar para IOS e gerar a api, basta executar o comando na pasta do projeto: expo build:ios 
